@@ -1,4 +1,4 @@
-# Cepstral Identification of Autorgressive Systems
+# Cepstral Identification of Autoregressive Systems
 Code for numerical illustrations accompanying the paper Cepstral Identification of Autoregressive Systems.
 ## Summary
 The (Matlab) code in this repository recreates the numerical examples in the manuscript "Cepstral Identification of Autoregressive Systems", a preprint of which can be found on [arXiv](placeholder), by Oliver Lauwers, Christof Vermeersch and Bart De Moor, which develops a novel, extremely efficient system identification technique, to estimate the difference equation of a system, starting from the power cepstra of input and output signals. The algorithm then consists of an exact solution to a set of difference equations.
