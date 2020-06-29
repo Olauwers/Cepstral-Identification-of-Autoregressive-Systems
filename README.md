@@ -15,3 +15,7 @@ Bear in mind that this code is not meant as a fully working software package, bu
 
 ## Reference
 When using this code or discussing results of cepstral system identification, please refer to [this paper](placeholder).
+
+The data for the structural health monitoring application was provided by the Los Alamos National Laboratory.
+It comes from the "Bookshelf Frame Structure -DSS 2000" data set, at https://www.lanl.gov/projects/national-security-education-center/engineering/software/shm-data-sets-and-software.php
+
