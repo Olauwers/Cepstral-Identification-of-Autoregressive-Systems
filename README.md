@@ -14,4 +14,4 @@ Several numerical examples are available:
 Bear in mind that this code is not meant as a fully working software package, but serves merely as an illustration accompanying the manuscript mentioned earlier.
 
 ## Reference
-When using this code or discussing results of the extended cepstral distance measure, please refer to [this paper](placeholder).
+When using this code or discussing results of cepstral system identification, please refer to [this paper](placeholder).
